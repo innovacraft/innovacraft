@@ -1,6 +1,6 @@
 # Hi there, I'm Ankur 👋
 
-## I'm a Data Engineer! 
+## I'm a Data Engineer! I love to integrate innovation in Data Engineering. Currently I am working on creating LLM models
 
 - 🔭 I’m currently working on a web development project.
 - 🌱 I’m currently learning React and Node.js.

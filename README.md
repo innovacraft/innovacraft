@@ -9,5 +9,4 @@
 - 📫 How to reach me: [LinkedIn](your-linkedin-url)
 
 ### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,spark,python,databricks,oracle,snowflake,hadoop,flask,django,langchain,ollama,postgres,react,datadog&perline=3)

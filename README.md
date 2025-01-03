@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Langchain & Ollama.
 - 👯 I’m looking to collaborate on open source projects.
 - 🥅 2025 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me: [LinkedIn](your-linkedin-url)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankurchopraa/)
 
 
 ## 📊 GitHub Stats
